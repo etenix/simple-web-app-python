@@ -21,6 +21,7 @@ Python + Flask で作成したシンプルなWeb APIアプリです。
 pip install -r requirements.txt
 cp .env.example .env
 python app.py
+```
 
 ## ブラウザで：
 http://localhost:5000
