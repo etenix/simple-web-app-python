@@ -21,3 +21,14 @@ Python + Flask で作成したシンプルなWeb APIアプリです。
 pip install -r requirements.txt
 cp .env.example .env
 python app.py
+
+## ブラウザで：
+http://localhost:5000
+
+## 📌 学習内容
+- FlaskによるAPI開発
+- 環境変数管理
+- GitHubでのプロジェクト管理
+
+## 👤 作者
+- etenix
