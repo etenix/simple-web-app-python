@@ -50,7 +50,7 @@ http://localhost:5000
 
 1. リポジトリをクローン
 
-git clone https://github.com/你的ID/simple-web-app-python.git
+git clone https://github.com/etenix/simple-web-app-python.git
 cd simple-web-app-python
 
 2.	仮想環境を作成
