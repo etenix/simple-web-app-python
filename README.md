@@ -17,11 +17,9 @@ Python + Flask で作成したシンプルなWeb APIアプリです。
 
 ## 🚀 実行方法
 
-```bash
 pip install -r requirements.txt
 cp .env.example .env
 python app.py
-```
 
 ## ブラウザで：
 http://localhost:5000
@@ -52,7 +50,6 @@ http://localhost:5000
 
 1. リポジトリをクローン
 
-```bash
 git clone https://github.com/你的ID/simple-web-app-python.git
 cd simple-web-app-python
 
@@ -73,7 +70,6 @@ cp .env.example .env
 
 python app.py
 
-```
 ## 📌 Future Improvements（今後の改善予定）
 
 - Docker対応
